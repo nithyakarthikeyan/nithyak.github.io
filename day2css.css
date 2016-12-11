@@ -1,0 +1,18 @@
+body{
+	margin:0;
+	color:blue;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+h1{
+	color:black;
+	}
+.one{
+	background-color:blue;
+}
+.two{
+	background-color:yellow;
+}
+.three{
+	background-color:green;
+}
